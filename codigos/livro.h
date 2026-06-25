@@ -4,14 +4,15 @@
 #include <string>
 
 class Livro {
-    protect:
+    private:
         int id;
         std::string titulo;
         std::string autor;
         bool emprestado;
-    public:
+
+    private:
         Livro();
-        Livro(int i, const std::string& t, std::string& a);
+        Livro(int i, const std::string& t, const std::string& a);
 };
 
 #endif
