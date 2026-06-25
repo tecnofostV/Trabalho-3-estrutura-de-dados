@@ -44,7 +44,7 @@ funcaoHash()
 
 -Como Compilar
 Utilizando o g++:
-g++ main.cpp aluno.cpp hashTable.cpp -o programa
+g++ main.cpp hashTable.cpp -o programa
 Ou, caso todos os arquivos estejam no mesmo diretório:
 g++ *.cpp -o programa
 
