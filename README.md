@@ -11,9 +11,7 @@ Aplicar os conceitos de:
 # Estrutura do Projeto
 ```
  Projeto
-│
 ├── aluno.h
-├── aluno.cpp
 ├── hashTable.h
 ├── hashTable.cpp
 ├── main.cpp
@@ -46,11 +44,9 @@ Responsável por gerenciar os alunos na tabela hash.
 ## Compilação
 Abra o terminal na pasta onde estão os arquivos do projeto e execute:
 ```bash
-g++ main.cpp hashTable.cpp aluno.cpp -o programa
+g++ main.cpp hashTable.cpp-o programa
 ```
 ## Executando
 # Windows
 programa.exe
 
-
-```
