@@ -3,7 +3,6 @@ Este projeto implementa um sistema simples de gerenciamento de alunos utilizando
 O programa permite cadastrar, buscar, remover e listar alunos através de um menu interativo no terminal.
 # Objetivo
 Aplicar os conceitos de:
-
 - Estrutura de Dados – Tabela Hash;
 - Tratamento de colisões utilizando listas encadeadas;
 - Utilização da STL do C.
