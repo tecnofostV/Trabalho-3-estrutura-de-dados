@@ -6,7 +6,7 @@ Aplicar os conceitos de:
 
 - Estrutura de Dados – Tabela Hash;
 - Tratamento de colisões utilizando listas encadeadas;
-- Utilização da STL do C++.
+- Utilização da STL do C.
 ---
 # Estrutura do Projeto
 ```
@@ -39,7 +39,7 @@ Responsável por gerenciar os alunos na tabela hash.
 ---
 # Como Compilar
 ## Requisitos
-- Compilador C++ (g++)
+- Compilador C (g++)
 - Terminal (Prompt de Comando, PowerShell ou Linux)
 ## Compilação
 Abra o terminal na pasta onde estão os arquivos do projeto e execute:
